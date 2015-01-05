@@ -39,7 +39,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 //-----------------------------------------------
-
+// The more comments we have the more happy we are
 public class GameView extends View {
 
     public static final long FPS_MS = 1000/2;
